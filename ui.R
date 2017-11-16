@@ -34,8 +34,7 @@ shinyUI(fluidPage(
        h4("It is interesting to note that, among less populated cities, cities with very less population are very less...!!!"),
        h4("Among cities with high population, cities with very high population are..., nah, not high, very less...!!!"),
        h4("And finally, among cities with medium population, cities with medium population are, yeah, very high...!!!"),
-       h4("Github Link for Code:"),
-       a("http://github.com/yogeshbendre/ysbapp")
+       a("Click here for github link of code",href="http://github.com/yogeshbendre/ysbapp")
        
     ),
     
